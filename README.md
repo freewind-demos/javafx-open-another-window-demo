@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Open Another Window Demo
+===============================
 
-Show a window with `Hello, JavaFX` label.
+How to open another window and close current window.
 
